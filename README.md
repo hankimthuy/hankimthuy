@@ -46,17 +46,17 @@ Software Builder with 3+ years of experience specializing in building user-centr
 ### 🎯 Projects
 
 **⚙️ Centralized Manufacturing Lifecycle Platform**
-* An internal workflow management tool architected to eliminate fragmented workflows and data silos for global manufacturing operations.
+**An internal workflow management tool architected to eliminate fragmented workflows and data silos for global manufacturing operations.
 * **Tech Stack:** Angular 20+, Figma, Restful API.
 * **Impact:** Replaced manual Excel tracking with a unified digital tool, ensuring **100% operational precision** and eliminating data redundancy.
 
 **✨ MimoSe: Make Sense of Me**
-* A comprehensive **Personal Development ecosystem** designed to foster long-term growth and self-improvement.
+**A comprehensive **Personal Development ecosystem** designed to foster long-term growth and self-improvement.
 * **Tech Stack:** React, Spring Boot, AI, Figma.
 * **Innovation:** Utilizes a low-friction framework and proactive AI to transform self-awareness into actionable personal development.
 
 **🌊 FlowStreaks**
-* A "Life OS" and capacity manager that shifts the focus from rigid consistency to realistic, context-aware productivity.
+**A "Life OS" and capacity manager that shifts the focus from rigid consistency to realistic, context-aware productivity.
 * **Purpose:** Manages cognitive load and eliminates "productivity dysmorphia" by accounting for real-world exhaustion and life events.
 * **Core Principle:** Provides a visual sense of accomplishment through a guilt-free tracking system that respects daily energy levels.
 
