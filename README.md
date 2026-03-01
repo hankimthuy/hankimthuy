@@ -65,6 +65,6 @@ A "Life OS" and capacity manager that shifts the focus from rigid consistency to
 ### 🤝 Connect with Me
 
 * 🌐 **Portfolio:** [thuyhankim.id.vn](https://thuyhankim.id.vn/)
-* 💼 **LinkedIn:** [www.linkedin.com/in/thuyhankim]
+* 💼 **LinkedIn:** [www.linkedin.com/in/thuyhankim](www.linkedin.com/in/thuyhankim)
 
 ⚡ *"Turning complex logic into meaningful human experiences through empathy and code."*
