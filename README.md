@@ -4,6 +4,8 @@
 
 Software Builder with 3+ years of experience specializing in building user-centric digital solutions. I bridge the gap between technical implementation and product strategy, focusing on systems that empower personal development and capacity management.
 
+---
+
 ### 🚀 About Me
 
 * 🌍 Based in **Ho Chi Minh City, Vietnam**
@@ -14,12 +16,16 @@ Software Builder with 3+ years of experience specializing in building user-centr
 * 🧠 Applied Thinking Models: **Systems Thinking, Visual Thinking, and Logical Frameworks**
 * 🌱 Passionate about **Psychology (Adlerian), Personal Development, and Self-Leadership**
 
+---
+
 ### 💼 Professional Experience
 
 **Software Builder @ Bosch Global Software Technologies** (Dec 2022 - Present)
 * **End-to-End Ownership:** Leading the full product lifecycle from initial client requirements to final deployment for international stakeholders.
 * **Manufacturing Innovation:** Digitalized complex manufacturing processes into a unified web interface, improving operational transparency.
 * **Advanced UI Solutions:** Successfully implemented high-complexity features, including scalable dynamic columns and advanced filtering systems.
+
+---
 
 ### 🛠️ Technical Skills
 
@@ -35,15 +41,17 @@ Software Builder with 3+ years of experience specializing in building user-centr
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
+---
+
 ### 🎯 Featured Projects
 
 **⚙️ Centralized Manufacturing Lifecycle Platform**
-Architected a unified platform to eliminate fragmented workflows and data silos for global manufacturing operations.
+An internal workflow management tool architected to eliminate fragmented workflows and data silos for global manufacturing operations.
 * **Tech Stack:** Angular 20+, Figma, Restful API.
-* **Impact:** Replaced manual Excel tracking with a unified digital tool, ensuring 100% operational precision and eliminating data redundancy.
+* **Impact:** Replaced manual Excel tracking with a unified digital tool, ensuring **100% operational precision** and eliminating data redundancy.
 
 **✨ MimoSe: Make Sense of Me**
-A comprehensive Personal Development ecosystem designed to foster long-term growth and self-improvement.
+A comprehensive **Personal Development ecosystem** designed to foster long-term growth and self-improvement.
 * **Tech Stack:** React, Spring Boot, AI, Figma.
 * **Innovation:** Utilizes a low-friction framework and proactive AI to transform self-awareness into actionable personal development.
 
@@ -51,6 +59,8 @@ A comprehensive Personal Development ecosystem designed to foster long-term grow
 A "Life OS" and capacity manager that shifts the focus from rigid consistency to realistic, context-aware productivity.
 * **Purpose:** Manages cognitive load and eliminates "productivity dysmorphia" by accounting for real-world exhaustion and life events.
 * **Core Principle:** Provides a visual sense of accomplishment through a guilt-free tracking system that respects daily energy levels.
+
+---
 
 ### 🤝 Connect with Me
 
