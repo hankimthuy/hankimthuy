@@ -1,4 +1,4 @@
-# Hi 👋, I'm Thuy Han (Hàn Kim Thuỷ)
+# Hi 👋, [I'm Thuy Han (Hàn Kim Thuỷ)](https://hankimthuy.com/)
 
 **UX Engineer | Software Builder | Product Aspirant**
 
@@ -64,7 +64,7 @@ Software Builder with 3+ years of experience specializing in building user-centr
 
 ### 🤝 Connect with Me
 
-* 🌐 **Portfolio:** [thuyhankim.id.vn](https://thuyhankim.id.vn/)
+* 🌐 **Portfolio:** [https://hankimthuy.com/](https://hankimthuy.com/)
 * 💼 **LinkedIn:** [www.linkedin.com/in/thuyhankim](www.linkedin.com/in/thuyhankim)
 
 ⚡ *"Turning complex logic into meaningful human experiences through empathy and code."*
