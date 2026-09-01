@@ -1,4 +1,4 @@
-# Hi 👋, [I'm Thuy Han (Hàn Kim Thuỷ)](https://hankimthuy.com/)
+# Hi 👋, [I'm Han Kim **Thuy** (Hàn Kim Thuỷ)](https://hankimthuy.com/)
 
 **UX Engineer | Software Builder | Product Aspirant**
 
